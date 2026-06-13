@@ -1,0 +1,8 @@
+{
+  "name": "Ty the Window Guy",
+  "description": "Local window cleaning service in Cranston and Riverstone, providing professional and eco-friendly cleaning for homes and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
